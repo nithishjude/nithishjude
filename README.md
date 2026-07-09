@@ -1,78 +1,129 @@
-# 🦇 About Your Friendly Neighborhood Vigilante
-
-```js
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=I+am+Vengeance.+I+am+the+Night.;I+am+Batman.;Full+Stack+Developer+by+Day;Code-Slinging+Vigilante+by+Night" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Batman" width="400"/>
+</div>
+## 🦇 About Gotham's Developer
+ 
+```javascript
 const batDev = {
-  name: "Nithish Jude",
+  name: "Nithish Jude J",
   alias: "The Dark Coder",
-  location: "Patrolling the Streets of Gotham's Codebase 🌃",
-  powers: ["Full-Stack Development", "Real-Time Systems", "Web3 Detective Work", "Bug Hunting"],
-  motto: "It's not who I am underneath, but what I deploy that defines me",
-  currentlyLearning: "AI-Assisted Development & Advanced System Design",
-  funFact: "Can debug production at 3 AM without breaking a sweat!"
+  location: "Chennai, Gotham South",
+  role: "Computer Science Engineering Student @ LICET (2023 - 2027)",
+  powers: ["Full Stack Development", "Web3", "Real-Time Systems", "Hackathon Warfare"],
+  gadgets: ["React.js", "Node.js", "Express", "MySQL", "Kubernetes", "Solidity"],
+  motto: "It's not who I am underneath, but what I deploy that defines me.",
+  currentMission: "Building the Parking Lot Management System (Node/Express + React/Vite + MySQL)",
+  funFact: "Ships hackathon projects faster than the Batmobile hits 0-60"
 };
 ```
-
-*"I'm whatever Gotham needs me to be — a full-stack dev, a bug hunter, a hackathon vigilante."* 🦇
-
-## 🦇 Connect with the Dark Knight of Code
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nithishjudej/)
-
----
-
-## 🦇 My Bat-Senses (Tech Arsenal)
-
-**💻 Programming Languages & Core Powers**
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**🦇 Frontend Bat-Signal Rendering**
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=orange)
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
-![Vite](https://img.shields.io/badge/vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-**🗄️ Database & Batcave Backend Powers**
-![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=for-the-badge&logo=apache&logoColor=D42029)
-
-**🛠️ Development Tools & Deployment (The Batcave Arsenal)**
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23000000.svg?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-%23000000.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=F05032)
-![Bash](https://img.shields.io/badge/bash_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**🎨 Design & Creative Powers**
-![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=for-the-badge&logo=Canva&logoColor=00C4CC)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
-
----
-
-## 📊 Bat-Statistics (GitHub Stats)
-
+ 
+> *"It's not who I am underneath, but what I deploy that defines me."* 🦇
+ 
+## 🌃 Signal the Bat
+ 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nithishjude&theme=dark&hide_border=true&bg_color=0d1117&title_color=facc15&text_color=ffffff&icon_color=facc15" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishjude&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=facc15&text_color=ffffff" width="35%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FFD700)](#)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=FFD700)](#)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=FFD700)](#)
+ 
 </div>
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nithishjude&theme=dark&hide_border=true&background=0D1117&ring=FACC15&fire=FACC15&currStreakLabel=FACC15)
-
+## 🦇 The Utility Belt (Tech Arsenal)
+ 
+<div align="center">
+### 💻 Core Weapons
+ 
+![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=FFD700)
+![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=FFD700)
+![Solidity](https://img.shields.io/badge/Solidity-black.svg?style=for-the-badge&logo=solidity&logoColor=FFD700)
+ 
+### 🕸️ Frontend Grapple Guns
+ 
+![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=FFD700)
+![Vite](https://img.shields.io/badge/vite-black.svg?style=for-the-badge&logo=vite&logoColor=FFD700)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=FFD700)
+![Tailwind](https://img.shields.io/badge/tailwind-black.svg?style=for-the-badge&logo=tailwindcss&logoColor=FFD700)
+ 
+### 🛠️ Batcave Infrastructure
+ 
+![Node.js](https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=FFD700)
+![Express](https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=FFD700)
+![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=FFD700)
+![Kubernetes](https://img.shields.io/badge/kubernetes-black.svg?style=for-the-badge&logo=kubernetes&logoColor=FFD700)
+![Prometheus](https://img.shields.io/badge/prometheus-black.svg?style=for-the-badge&logo=prometheus&logoColor=FFD700)
+![Grafana](https://img.shields.io/badge/grafana-black.svg?style=for-the-badge&logo=grafana&logoColor=FFD700)
+ 
+### 🎨 Wayne Enterprises Design Division
+ 
+![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=FFD700)
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=FFD700)
+![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=FFD700)
+ 
+</div>
+## 🦇 Batcomputer Statistics
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nithishjude&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="Bat-Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishjude&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Patrol Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishjude&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
+</div>
+## 🏆 Case Files Closed (Achievements)
+ 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nithishjude&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+## 🦇 Active Investigations
+ 
+- 🅱️ **Currently Building**: Parking Lot Management System — Node.js/Express + React/Vite + MySQL
+- 🕵️ **Recently Cracked**: "Router" — an intent-routing broker agent for the CROO Network hackathon, built on LLM task decomposition and parallel CAP order-racing
+- 💰 **Closed Case**: "Provenance Pay" — real-time royalty disbursement engine using MusicBrainz metadata, Circle MPC wallets, and Arc Testnet USDC, with a deployed Solidity contract
+- 🔍 **Closed Case**: "Veil" — a zero-knowledge solvency attestation system on Stellar Soroban using Noir circuits
+- 🩸 **Vault Archive**: Blood Donation Alert System, The Super App
+- 🦇 **Field Training**: Full stack internships at Infosys SpringBoard and P2B Cloud
+- 💬 **Ask Me About**: React, Node.js, Web3, real-time systems, or hackathon survival tactics
+## 🦇 Gotham Development Journey
+ 
+```
+Frontend Grappling   ███████████████████░░   90%
+Backend Detective Work █████████████████░░░░  85%
+Web3 / Blockchain     ███████████████░░░░░░   75%
+DevOps / Kubernetes   ██████████████░░░░░░░   70%
+Hackathon Combat      ████████████████████░   95%
+Problem Solving       ████████████████████░   99%
+```
+ 
+## 🐍 Patrol Log (Contribution Snake)
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&lines=It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.+-+Batman;Why+do+we+fall%3F+So+we+can+learn+to+pick+ourselves+up.+-+Alfred;I'm+Batman.;The+night+is+darkest+just+before+the+dawn.+-+Harvey+Dent;A+hero+can+be+anyone.+-+Batman;It's+not+about+money%2C+it's+about+sending+a+message.+-+Bane" />
+</h1>
 ---
-
-## 🎯 What I'm Currently Patrolling
-
-- 🦇 **Currently Working On:** Parking Lot Management System (Node.js/Express + React/Vite + MySQL)
-- 🕵️ **Investigating:** AI-assisted dev tools & real-time system architecture
-- 🤝 **Looking to Collaborate On:** Open source projects, Web3 dApps, and hackathon builds
-- 💬 **Ask Me About:** React, Node.js, Kubernetes, or anything full-stack
-- ⚡ **Fun Fact:** I can ship a hackathon MVP faster than the Batmobile hits 60
-
-## 🦇 My Development Journey
+ 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=150&section=footer&text=Gotham%20Thanks%20You&fontSize=30&fontColor=FFD700&animation=twinkling" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nithishjude&color=black&style=for-the-badge&label=BAT-SIGNAL+VIEWS" alt="Profile Views" />
+</div>
+<div align="center">
+**"A hero can be anyone."**
+ 
+*Keep coding, keep protecting Gotham's codebase.* 🦇
+ 
+**Crafted in the shadows by Nithish Jude J**
+ 
+</div>
+ 
