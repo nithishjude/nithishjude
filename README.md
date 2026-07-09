@@ -139,17 +139,15 @@ const batman = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nithishjude&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithishjude&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishjude&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishjude&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishjude&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nithishjude&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -159,11 +157,11 @@ const batman = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithishjude&theme=algolia&no-bg=true&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nithishjude&theme=onedark&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
 
----
+
 
 # 🎯 CURRENT MISSIONS
 
